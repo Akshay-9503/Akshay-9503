@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay-9503
 - 👀 I’m interested in data analyst roll
-- 🌱 I’m currently learning data analyst in masai school
+- 🌱 I’m currently learning data analyst at masai school
 - 💞️ I’m looking to job in data analyst 
 - 📫 You can reach out to me on this Email 
 -  Akshay.sonawane9503@gmail.com 
